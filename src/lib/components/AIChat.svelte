@@ -1,13 +1,13 @@
 <script lang="ts">
-  // AI Chat Section
+  // Core + AI Section
 </script>
 
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
   <div class="mb-4">
-    <span class="text-blue-500 font-medium">AI Chat</span>
+    <span class="text-blue-500 font-medium">Coming Soon: Core + AI</span>
   </div>
   
-  <h2 class="text-4xl font-bold mb-12">Ask Amie to do or find anything</h2>
+  <h2 class="text-4xl font-bold mb-12">Your AI assistant that takes action</h2>
   
   <div class="grid lg:grid-cols-2 gap-16 mb-24">
     <div>
@@ -21,93 +21,98 @@
         </div>
       </div>
       
-      <div class="relative mt-12 bg-gray-50 p-6 rounded-xl border border-gray-100">
-        <div class="absolute -top-8 left-0 text-green-500 font-handwriting transform -rotate-6 text-sm flex items-center gap-1">
-          This is a real review we got 
-          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M10 10l5 5m0 0l-5 5m5-5H3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        </div>
-        
-        <!-- Email Mockup -->
-        <div class="bg-white shadow-sm rounded border border-gray-200 p-4 text-sm">
-           <div class="border-b border-gray-100 pb-2 mb-2">
-             <div class="flex gap-2 mb-1"><span class="text-gray-500 w-12">From</span> <span class="font-medium">Nish Budhraja</span></div>
-             <div class="flex gap-2"><span class="text-gray-500 w-12">Subject</span> <span class="font-medium">Feedback - Loving the new Amie!</span></div>
-           </div>
-           <div class="space-y-3 text-gray-700">
-             <p>You absolutely cooked - loving the new Amie. Was an instant upgrade to Business for me. I had churned last year but you won me back.</p>
-             <p>With tasks / calendar / meeting recordings, you replaced Superlist, Notion Calendar, and Granola for me.</p>
-             <p class="font-bold">All-in-one solution has enabled some pretty magical workflows for me:</p>
-             <p>1. Record meeting → follow up tasks logged → add tasks to my lists → add to calendar<br>
-             2. Have a meeting → have AI assistant write follow up email → AI assistant has all of the context needed → writes amazing email → send directly from Amie</p>
-           </div>
-        </div>
-        <div class="text-center mt-4 text-xs text-gray-400">Nish really was too kind with his review.</div>
+      <div class="bg-gray-50 p-6 rounded-xl border border-gray-100">
+        <h4 class="font-bold text-gray-900 mb-4">Core + AI will:</h4>
+        <ul class="space-y-3 text-sm text-gray-700">
+          <li class="flex items-start gap-3">
+            <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center mt-0.5 shrink-0">
+              <svg class="w-3 h-3 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+            </div>
+            <span>Draft follow-up emails after client meetings</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center mt-0.5 shrink-0">
+              <svg class="w-3 h-3 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+            </div>
+            <span>Send payment reminders automatically</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center mt-0.5 shrink-0">
+              <svg class="w-3 h-3 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+            </div>
+            <span>Schedule calls based on availability</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center mt-0.5 shrink-0">
+              <svg class="w-3 h-3 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+            </div>
+            <span>Track goals and suggest next steps</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <div class="w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center mt-0.5 shrink-0">
+              <svg class="w-3 h-3 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+            </div>
+            <span>Generate proposals from past projects</span>
+          </li>
+        </ul>
       </div>
     </div>
     
-    <!-- Chat Actions Visualization -->
+    <!-- Right Column -->
     <div>
-      <h3 class="font-bold text-lg mb-4">Chat Actions</h3>
+      <h3 class="font-bold text-lg mb-4">Proactive, Not Reactive</h3>
       <p class="text-gray-600 mb-8 text-sm">
-        Saving you time is our priority. And chat actions is the way we achieve that. You can ask Amie to draft emails, create or update meetings, rewrite summaries, create mind maps from summaries, and more.
+        Unlike other AI assistants that wait for you to ask questions, Core + AI will proactively identify tasks that need attention and take care of them—with your approval, of course.
       </p>
       
-      <div class="bg-blue-50 p-3 rounded-lg inline-block mb-8 text-sm text-blue-800">
-        <span class="font-bold">One of my favorite use cases:</span> "I'm sick, move everything to Thursday." and Amie will do it for you.
+      <div class="bg-blue-50 p-4 rounded-lg mb-8 text-sm">
+        <div class="font-bold text-blue-900 mb-2">Example workflow:</div>
+        <div class="text-blue-800 space-y-2">
+          <p>1. Client meeting ends</p>
+          <p>2. AI drafts follow-up email with action items</p>
+          <p>3. Creates invoice if milestone completed</p>
+          <p>4. Schedules next check-in meeting</p>
+          <p>5. Updates project status automatically</p>
+        </div>
+      </div>
+      
+      <div class="border-l-4 border-gray-900 pl-4 py-2">
+        <p class="text-sm text-gray-700 italic mb-2">
+          "The AI tier is exactly what I need—someone to handle all the follow-ups and admin tasks I always forget about."
+        </p>
+        <div class="text-xs text-gray-500">Early access tester</div>
       </div>
     </div>
   </div>
   
-  <!-- Large Interface Image for Chat Actions -->
-  <div class="bg-gradient-to-b from-gray-800 to-gray-900 rounded-2xl p-2 md:p-8 shadow-2xl overflow-hidden">
-    <div class="flex justify-between text-white/70 text-sm mb-4 px-4">
-       <div class="flex items-center gap-2"><div class="w-4 h-4 bg-red-400 rounded-full"></div> Send follow-up emails</div>
-       <div class="flex items-center gap-2"><div class="w-4 h-4 bg-purple-400 rounded-full"></div> Combine actions</div>
-       <div class="flex items-center gap-2"><div class="w-4 h-4 bg-blue-400 rounded-full"></div> Create Linear tickets</div>
-    </div>
-    
-    <div class="bg-white rounded-t-xl overflow-hidden h-[500px] relative">
-       <!-- Mock UI -->
-       <div class="p-6">
-         <div class="max-w-2xl mx-auto bg-white shadow-xl rounded-xl border border-gray-200 overflow-hidden">
-           <div class="bg-gray-50 p-3 border-b border-gray-200 font-medium text-sm text-gray-700">
-             Email everyone from my last meeting thanking them for joining, then create Linear tickets
-           </div>
-           <div class="p-6 space-y-4">
-             <div class="flex gap-3">
-               <div class="w-8 h-8 bg-gray-200 rounded-full shrink-0"></div>
-               <div class="bg-gray-100 rounded-2xl rounded-tl-none p-3 text-sm text-gray-700 max-w-[80%]">
-                 I'll help you draft an email to thank the participants from your "Amie x Linear" meeting, which was your most recent meeting.
-               </div>
-             </div>
-             
-             <!-- Email Draft Card -->
-             <div class="border border-gray-200 rounded-lg p-4 ml-11">
-               <div class="text-xs text-gray-500 mb-2">To: All participants</div>
-               <div class="text-xs text-gray-500 mb-4">Subject: Thank you for joining the Amie UX test</div>
-               <div class="text-sm text-gray-800 space-y-2">
-                 <p>Hi everyone,</p>
-                 <p>I wanted to thank you all for participating in our Amie UX test meeting yesterday. Your feedback on the new dashboard view, meeting notes feature, and task management was incredibly valuable.</p>
-                 <p>Best,<br>Stefan</p>
-               </div>
-             </div>
-             
-             <div class="flex gap-3">
-               <div class="w-8 h-8 bg-gray-200 rounded-full shrink-0"></div>
-               <div class="bg-gray-100 rounded-2xl rounded-tl-none p-3 text-sm text-gray-700 max-w-[80%]">
-                 Now I'll create a Linear issue to track the feedback:
-               </div>
-             </div>
-             
-             <!-- Linear Ticket Card -->
-             <div class="border border-gray-200 rounded-lg p-4 ml-11 flex items-center gap-3">
-               <div class="w-6 h-6 bg-blue-600 rounded"></div>
-               <div class="text-sm font-medium">Connect to Linear</div>
-               <button class="ml-auto text-xs bg-gray-100 px-2 py-1 rounded">Connect</button>
-             </div>
-           </div>
-         </div>
-       </div>
+  <!-- Pricing Teaser -->
+  <div class="bg-gradient-to-br from-gray-50 to-blue-50 rounded-2xl p-8 md:p-12 text-center border border-gray-200">
+    <div class="max-w-2xl mx-auto">
+      <h3 class="text-2xl font-bold mb-4">Want early access to Core + AI?</h3>
+      <p class="text-gray-600 mb-6">
+        Join the waitlist to be among the first to experience AI-powered business automation. We'll notify you when it's ready.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <input 
+          type="email" 
+          placeholder="Enter your email" 
+          class="px-4 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-900 text-center sm:text-left"
+        />
+        <button class="bg-gray-900 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-gray-800 transition-colors whitespace-nowrap">
+          Join Waitlist
+        </button>
+      </div>
+      <p class="text-xs text-gray-500 mt-4">Core plan starts at $29/month. Core + AI pricing TBA.</p>
     </div>
   </div>
 </section>

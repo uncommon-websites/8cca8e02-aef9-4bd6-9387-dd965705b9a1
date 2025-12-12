@@ -2,12 +2,12 @@
   let openIndex: number | null = null;
   
   const faqs = [
-    "Can I use Amie at my company?",
-    "Where do I connect more accounts?",
-    "How does Amie protect my privacy?",
-    "When can I use Amie on my device?",
-    "Where can I send a feature request or report a bug?",
-    "Which video call providers do you support?"
+    "How does the 30-day free trial work?",
+    "Can I import my existing clients and projects?",
+    "What happens after the trial ends?",
+    "Is TAAARS! suitable for teams or just solopreneurs?",
+    "Do you offer migration support from other tools?",
+    "How do I get help if I have questions?"
   ];
   
   function toggle(index: number) {

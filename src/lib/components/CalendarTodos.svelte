@@ -4,27 +4,27 @@
 
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
   <div class="mb-4">
-    <span class="text-orange-500 font-medium">Calendar & Todos</span>
+    <span class="text-orange-500 font-medium">Scheduling & Tasks</span>
   </div>
   
-  <h2 class="text-4xl font-bold mb-4">Organize your day on autopilot</h2>
+  <h2 class="text-4xl font-bold mb-4">Bookings and task management, simplified</h2>
   
   <div class="flex gap-4 text-sm text-gray-500 mb-12 items-center">
     <span class="font-medium text-gray-900">Replaces:</span>
-    <span class="flex items-center gap-1.5"><div class="w-3 h-3 rounded-full bg-blue-500"></div> Gcal</span>
-    <span class="flex items-center gap-1.5"><div class="w-3 h-3 rounded-full bg-blue-400"></div> Things 3</span>
-    <span class="flex items-center gap-1.5"><div class="w-3 h-3 rounded-full bg-gray-800"></div> Motion</span>
+    <span class="flex items-center gap-1.5"><div class="w-3 h-3 rounded-full bg-blue-500"></div> Calendly</span>
+    <span class="flex items-center gap-1.5"><div class="w-3 h-3 rounded-full bg-blue-400"></div> Acuity</span>
+    <span class="flex items-center gap-1.5"><div class="w-3 h-3 rounded-full bg-gray-800"></div> Asana</span>
   </div>
   
   <p class="text-gray-600 max-w-3xl mb-16">
-    Combine action items from your calls with todos from eg Notion or Todoist in one place. From there, we use AI to schedule your day. Whenever your plans change, we shuffle around your schedule to keep you on track.
+    Let clients book meetings with you directly—no more email tennis. Your booking page shows your availability and lets clients choose a time that works. Tasks from projects automatically appear in your to-do list, so nothing falls through the cracks.
   </p>
   
   <div class="grid md:grid-cols-2 gap-16 mb-20">
     <div>
-      <h3 class="font-bold text-lg mb-4">AI Scheduling</h3>
+      <h3 class="font-bold text-lg mb-4">Client Bookings</h3>
       <p class="text-gray-600 mb-8 text-sm">
-        We'll put together your schedule on automatically. You'll keep app deadlines, and will work on the highest priority items first.
+        Share your booking link with clients and let them schedule meetings based on your availability. Automatically syncs with your calendar and sends reminders.
       </p>
       
       <!-- Mockup Checklist -->
@@ -54,9 +54,9 @@
     </div>
     
     <div>
-      <h3 class="font-bold text-lg mb-4">AI Calendar</h3>
+      <h3 class="font-bold text-lg mb-4">Task Management</h3>
       <p class="text-gray-600 mb-8 text-sm">
-        Ask the chat to create or update your events. Ask it how much time you've spent on demo calls last week. Or have it prepare today's agendas.
+        Every project automatically generates tasks. Check them off as you complete milestones. Set due dates and priorities to stay organized and on track.
       </p>
       
       <div class="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
@@ -82,9 +82,9 @@
        <div class="text-orange-400 text-xs mb-2">★★★★★</div>
        <div class="flex items-center gap-2 mb-2">
          <div class="w-6 h-6 bg-gray-300 rounded-full"></div>
-         <div class="text-xs font-bold">Oz, Founder</div>
+         <div class="text-xs font-bold">Lina, Business Coach</div>
        </div>
-       <p class="text-xs text-gray-600">It doesn't have to suck to be productive, Amie reminds you of that</p>
+       <p class="text-xs text-gray-600">No more Sunday admin work! My clients book their own sessions and I can focus on coaching.</p>
        <div class="absolute top-4 right-4 w-4 h-4 bg-black rounded"></div>
     </div>
     
@@ -92,9 +92,9 @@
        <div class="text-orange-400 text-xs mb-2">★★★★★</div>
        <div class="flex items-center gap-2 mb-2">
          <div class="w-6 h-6 bg-gray-300 rounded-full"></div>
-         <div class="text-xs font-bold">Raf, Designer</div>
+         <div class="text-xs font-bold">Brandon, Consultant</div>
        </div>
-       <p class="text-xs text-gray-600">nothing but joy. opening a calendar shouldn't be stressful. can't imagine to go back</p>
+       <p class="text-xs text-gray-600">Tasks from projects automatically show up in my to-do list. Nothing gets forgotten anymore.</p>
        <div class="absolute top-4 right-4 w-4 h-4 bg-black rounded"></div>
     </div>
     
@@ -102,9 +102,9 @@
        <div class="text-orange-400 text-xs mb-2">★★★★★</div>
        <div class="flex items-center gap-2 mb-2">
          <div class="w-6 h-6 bg-gray-300 rounded-full"></div>
-         <div class="text-xs font-bold">Noah, Founder</div>
+         <div class="text-xs font-bold">Naomi, Executive Coach</div>
        </div>
-       <p class="text-xs text-gray-600">I can finally do time blocking and to-do lists from one interface.</p>
+       <p class="text-xs text-gray-600">Booking links have saved me hours of back-and-forth emails every week.</p>
        <div class="absolute top-4 right-4 w-4 h-4 bg-black rounded"></div>
     </div>
   </div>

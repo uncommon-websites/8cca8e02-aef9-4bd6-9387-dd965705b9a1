@@ -8,14 +8,14 @@
       <span class="text-blue-500 font-medium">Integrations</span>
     </div>
     
-    <h2 class="text-4xl font-bold mb-6">Keep your tools updated, with one click</h2>
+    <h2 class="text-4xl font-bold mb-6">Works with the tools you already use</h2>
     
     <p class="text-gray-600 max-w-3xl mx-auto mb-16">
-      Too many tools require you to use them all the time to be useful. Amie works just as well in the background. The integrations with Google and Apple Calendar make sure every meeting gets recorded.
+      TAAARS! is designed to be your central hub, but we know you might have other tools you love. That's why we're building integrations with popular platforms.
       <br><br>
-      The Gmail integration lets us re-create your writing style. To AI-draft your emails just like you wrote it.
+      Export client data to your CRM. Sync projects with your project management tools. Send invoices through your accounting software. TAAARS! plays well with others.
       <br><br>
-      We know that you likely have a system of record already. We've built integrations with Slack, Notion, Hubspot and Pipedrive. So that you can get the summaries there with a few clicks.
+      New integrations are constantly being added based on customer requests. Need something specific? Let us know at help@taaars.com
     </p>
     
     <!-- Integration Diagram Mockup -->
@@ -24,7 +24,7 @@
       <div class="w-32 h-32 bg-gradient-to-br from-purple-500 to-pink-500 rounded-3xl shadow-2xl z-10 flex items-center justify-center">
         <div class="text-white font-bold text-4xl">A</div>
       </div>
-      <div class="absolute bottom-28 text-gray-400 font-serif italic text-xl">via AMIE</div>
+      <div class="absolute bottom-28 text-gray-400 font-serif italic text-xl">via TAAARS!</div>
       
       <!-- Connections (Simplified with CSS) -->
       <div class="absolute inset-0 flex items-center justify-center">
@@ -51,7 +51,7 @@
       </div>
     </div>
     
-    <p class="text-xs text-gray-400 mb-16">Export meeting notes to Pipedrive, Notion, Slack, Hubspot, Linear. Request integrations at care@amie.so</p>
+    <p class="text-xs text-gray-400 mb-16">Export client data to Pipedrive, Notion, Slack, Hubspot, QuickBooks. Request integrations at help@taaars.com</p>
     
     <!-- Integration List Grid -->
     <div class="grid grid-cols-2 md:grid-cols-3 gap-8 text-left max-w-4xl mx-auto">

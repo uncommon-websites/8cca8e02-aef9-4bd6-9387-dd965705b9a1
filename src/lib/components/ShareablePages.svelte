@@ -4,24 +4,24 @@
 
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
   <div class="mb-4">
-    <span class="text-purple-500 font-medium">Shareable Pages</span>
+    <span class="text-purple-500 font-medium">Client Experience</span>
   </div>
   
-  <h2 class="text-4xl font-bold mb-6">Shared with colleagues and customers</h2>
+  <h2 class="text-4xl font-bold mb-6">Professional proposals and client portals</h2>
   
   <p class="text-gray-600 max-w-3xl mb-8">
-    Recording all your meetings is a great start. And most tools stop there. The context that many notes create over time is a goldmine.
+    First impressions matter. Send beautiful, professional proposals that clients can review and accept online. No more PDFs sent via email and waiting for signatures.
   </p>
   
   <p class="text-gray-600 max-w-3xl mb-12">
-    When you ask the AI chat questions, we pull in all the context from the pages. Wherever you are, you can always ask questions about any meeting.
+    Once accepted, proposals automatically convert to projects with invoices ready to send. Clients get a portal where they can view project status, pay invoices, and book meetings—all in one place.
   </p>
   
   <div class="border-l-4 border-purple-500 pl-6 py-2 mb-16">
     <p class="text-lg font-medium text-gray-900 italic mb-2">
-      Wow, auto-generated pages are the kind of thing that you don't even know you need until you see it. It's like an AI-native CRM.
+      My clients love the professional experience. They can see everything in one place and pay invoices instantly. It's made me look way more established than I am.
     </p>
-    <div class="text-sm text-gray-500">Victor Fleha • Founder, Fundmore</div>
+    <div class="text-sm text-gray-500">Brandon • Consultant</div>
   </div>
   
   <!-- Interface Mockup -->
@@ -80,33 +80,33 @@
   <!-- Bottom Grid -->
   <div class="grid md:grid-cols-3 gap-8 mt-16">
     <div>
-      <h3 class="font-bold text-lg mb-2">By recurring event</h3>
-      <p class="text-sm text-gray-600 mb-4">See how your project is progressing over time.</p>
+      <h3 class="font-bold text-lg mb-2">Beautiful Proposals</h3>
+      <p class="text-sm text-gray-600 mb-4">Send professional proposals that clients can accept online.</p>
       <div class="bg-gray-50 p-4 rounded-lg border border-gray-100 h-24 flex items-center justify-center">
         <div class="w-full space-y-2">
-          <div class="h-2 bg-gray-200 rounded w-3/4"></div>
+          <div class="h-2 bg-gray-900 rounded w-3/4"></div>
           <div class="h-2 bg-gray-200 rounded w-1/2"></div>
         </div>
       </div>
     </div>
     
     <div>
-      <h3 class="font-bold text-lg mb-2">By domain</h3>
-      <p class="text-sm text-gray-600 mb-4">Make sure your customers get the care they deserve.</p>
+      <h3 class="font-bold text-lg mb-2">Client Portals</h3>
+      <p class="text-sm text-gray-600 mb-4">Give clients a place to view projects, pay invoices, and book meetings.</p>
       <div class="bg-gray-50 p-4 rounded-lg border border-gray-100 h-24 flex items-center justify-center">
         <div class="w-full space-y-2">
-          <div class="h-2 bg-gray-200 rounded w-full"></div>
+          <div class="h-2 bg-gray-900 rounded w-full"></div>
           <div class="h-2 bg-gray-200 rounded w-2/3"></div>
         </div>
       </div>
     </div>
     
     <div>
-      <h3 class="font-bold text-lg mb-2">Manually</h3>
-      <p class="text-sm text-gray-600 mb-4">Keep track of topics, projects, or anything else.</p>
+      <h3 class="font-bold text-lg mb-2">Online Payments</h3>
+      <p class="text-sm text-gray-600 mb-4">Get paid faster with integrated payment processing.</p>
       <div class="bg-gray-50 p-4 rounded-lg border border-gray-100 h-24 flex items-center justify-center">
         <div class="w-full space-y-2">
-          <div class="h-2 bg-gray-200 rounded w-1/2"></div>
+          <div class="h-2 bg-gray-900 rounded w-1/2"></div>
           <div class="h-2 bg-gray-200 rounded w-3/4"></div>
         </div>
       </div>
